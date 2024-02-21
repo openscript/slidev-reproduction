@@ -21,10 +21,17 @@ routerMode: hash
 1
 
 ---
-disabled: true
----
 
-2
+<v-clicks>
+
+- One
+- Two
+- Three
+  ```javascript
+  console.log("hello")
+  ```
+
+</v-clicks>
 
 ---
 
